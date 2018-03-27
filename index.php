@@ -5,7 +5,6 @@
       // username and password sent from form 
 
       echo $_POST['username'];
-      echo $_POST['password'];
    }
 ?>
 
